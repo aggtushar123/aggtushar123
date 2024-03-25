@@ -4,7 +4,7 @@
 
   
 
-- 👨‍💻 All of my projects are available at [https://tusharaggarwal.me/]([https://tusharaggarwal.me/](https://tushar-aggarwal-git-master-aggtushar123.vercel.app/#))
+- 👨‍💻 All of my projects are available at [https://tushar-aggarwal-git-master-aggtushar123.vercel.app/#]([https://tusharaggarwal.me/](https://tushar-aggarwal-git-master-aggtushar123.vercel.app/#))
 
   
 
